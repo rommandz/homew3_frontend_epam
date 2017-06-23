@@ -1,0 +1,32 @@
+nav{
+    float: left;
+    width: 25%;
+}
+header {
+    float: right;
+    width: 75%;
+}
+main {
+    float: left;
+    width: 50%;
+}
+aside {
+    float: right;
+    width: 25%;
+}
+img{
+    display: inline-block;
+    width: 16%;
+    height: auto;
+}
+main article:nth-child(1){
+    float: left;
+    width: 48%;
+}
+main article:nth-child(2){
+    float: left;
+    width: 48%;
+}
+h1, h2, h3{
+    text-align: center;
+}
